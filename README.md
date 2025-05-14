@@ -43,7 +43,7 @@ RNAseq-nf-pipeline/
 1. Clone the repository:
    ```bash
    git clone https://github.com/vassan1h/RNAseq-nf-pipeline.git
-   cd RNAseq-nf-pipeline
+   cd nextflow_base
    ```
 
 2. Set up the Conda environment:
