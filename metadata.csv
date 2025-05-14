@@ -1,0 +1,7 @@
+sample,condition
+control_rep1,control
+control_rep2,control
+control_rep3,control
+exp_rep1,treatment
+exp_rep2,treatment
+exp_rep3,treatment
