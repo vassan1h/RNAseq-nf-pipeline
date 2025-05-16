@@ -43,13 +43,13 @@ RNAseq-nf-pipeline/
 1. Clone the repository:
    ```bash
    git clone https://github.com/vassan1h/RNAseq-nf-pipeline.git
-   cd nextflow_base
+   cd RNAseq-nf-pipeline
    ```
 
 2. Set up the Conda environment:
    ```bash
    conda env create -f envs/environment.yml
-   conda activate rnaseq-nf
+   conda activate nextflow_base
    ```
 
 ### Running the Pipeline
